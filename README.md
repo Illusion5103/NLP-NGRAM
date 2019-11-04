@@ -1,2 +1,2 @@
 # NLPProject
-Recent Natural Language Processing program I wrote
+Natural Language Processing program I wrote
