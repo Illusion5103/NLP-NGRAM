@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from hw8_1 import getDict
 from collections import Counter
 import numpy as np
 import matplotlib.pyplot as plt
